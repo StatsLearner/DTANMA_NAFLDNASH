@@ -3,7 +3,6 @@
 ## Overview
 This repository contains a minimal set of R codes to reproduce our analyses shown in the paper:
 
-
 ## Contents
 This repository includes:
 - Stan codes for the [separate MA model](ma_fit_supp.stan), the [main NMA model](nma_fit_main_supp.stan), the [simpler model](nma_fit_sub_supp.stan), and the [inconsistency model](nma_fit_main_inconsistency_supp.stan),
