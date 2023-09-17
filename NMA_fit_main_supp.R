@@ -90,9 +90,6 @@ s_spdiff <- summary(fit, pars = c("sp_diff"))
 s_sepreddiff <- summary(fit, pars = c("sepred_diff"))
 s_sppreddiff <- summary(fit, pars = c("sppred_diff"))
 
-save.image(file=paste0("stanfit_NMA_main_supp",
-                            fibrosis_grade,"_",prior_type,".RData"))
-
 # ---------------------------------------------------
 # Check MCMC samples
 # ---------------------------------------------------

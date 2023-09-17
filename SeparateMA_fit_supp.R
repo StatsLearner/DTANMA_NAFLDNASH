@@ -74,8 +74,6 @@ s1 <- summary(fit, pars = parms)
 s2 <- summary(fit, pars = c("pool_P","P"))
 s_pred <- summary(fit, pars = c("sesp_pred"))
 
-save.image(file=paste0("stanfit_MA_main_supp",testname,"_",fibrosis_grade,"_",prior_type,".RData"))
-
 # ---------------------------------------------------
 # Check MCMC samples
 # ---------------------------------------------------
