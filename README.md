@@ -1,4 +1,4 @@
-# Network meta-analysis for DTA in adults with NAFLD/NASH
+# Network meta-analysis for DTA in adults with NAFLD
 
 ## Overview
 This repository contains a minimal set of R codes to reproduce our analyses shown in the paper:
