@@ -1,7 +1,8 @@
 # Network meta-analysis for DTA in adults with NAFLD
 
 ## Overview
-This repository contains a minimal set of R codes to reproduce our analyses shown in the paper: amaguchi, R., Oda, T. & Nagashima, K. Comparison of the diagnostic accuracy of shear wave elastography with transient elastography in adult nonalcoholic fatty liver disease: a systematic review and network meta-analysis of diagnostic test accuracy. Abdom Radiol (2024). https://doi.org/10.1007/s00261-024-04546-8
+This repository contains a minimal set of R codes to reproduce our analyses shown in the paper: 
+Yamaguchi, R., Oda, T. & Nagashima, K. Comparison of the diagnostic accuracy of shear wave elastography with transient elastography in adult nonalcoholic fatty liver disease: a systematic review and network meta-analysis of diagnostic test accuracy. Abdom Radiol (2024). https://doi.org/10.1007/s00261-024-04546-8
 
 ## Contents
 This repository includes:
